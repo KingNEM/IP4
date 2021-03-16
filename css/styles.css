@@ -1,2 +1,25 @@
 body {
-    background-color: darkslategrey;
+    background-color: royalblue;
+    font-size: larger;
+    color: black;
+    align-items: center;
+}
+
+h1 {
+    background-color: skyblue;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bolder;
+    color: purple;
+    text-align: center;
+    font-size: xx-large;
+}
+h9 {
+    font-family: monospace;
+    color: purple;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bolder;
+    align-items: center;
+}
+}
